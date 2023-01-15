@@ -6,7 +6,7 @@ A webpage that follows accessibility standards and is optimized for search engin
 
 ## Installation
 
-Open your favourite web browser and follow the link: 
+Open your favourite web browser and follow the link: https://amanda-lacroix.github.io/WEEK-1-CHALLENGE/
 
 ## Usage
 
