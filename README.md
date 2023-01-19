@@ -10,7 +10,7 @@ Open your favourite web browser and follow the link: https://amanda-lacroix.gith
 
 ## Screenshot
 
-Screenshot of the demo webpage:
+Screenshot of the demo webpage to verify against the live wrbsite as noted above:
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/116973964/213357686-a23ee6f8-2371-4e90-a2f2-d8dd61e0e046.png)
 
 
