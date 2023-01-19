@@ -8,12 +8,10 @@ A webpage that follows accessibility standards and is optimized for search engin
 
 Open your favourite web browser and follow the link: https://amanda-lacroix.github.io/WEEK-1-CHALLENGE/
 
-## Usage
+## Screenshot
 
-Provide instructions and examples for use. Include screenshots as needed.
+Screenshot of the live webpage:
 
-
-    ![alt text](Assets/Images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
